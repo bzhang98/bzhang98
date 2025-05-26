@@ -10,8 +10,8 @@ I'm a Computer Science student at Oregon State University, currently working on 
 - **Areas of Interest:** Web Dev, Networking, Security, Systems, Databases
 
 📌 **What I Care About**  
-- Writing clean, maintainable code  
-- Building tools I’d actually want to use  
+- Writing clean, maintainable code
+- Building tools I’d actually want to use 
 - Keeping things lightweight and fast
 
 ---
