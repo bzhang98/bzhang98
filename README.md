@@ -9,15 +9,15 @@ I'm a Computer Science student at Oregon State University, currently working on 
 - **Frameworks & Tools:** React, Next.js, Node.js, Express, PostgreSQL, MySQL, Git  
 - **Areas of Interest:** Web Dev, Networking, Security, Systems, Databases
 
-📚 **Currently Working On**  
-- 🧩 **Z-Board** – a local-first Kanban board for dev workflows
-- 🛠 Systems projects involving C and socket programming
-- 🎓 Preparing to begin Georgia Tech’s OMSCS (Fall 2025 Matriculation)
+🧠 **What I Care About**  
+- Writing clean, maintainable code  
+- Building tools I’d actually want to use  
+- Keeping things lightweight and fast
 
 ---
 
 📫 **Connect with Me**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/zhang-br1998)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/zhang-br1998)  
 - 📬 Email: zhang.br1998@gmail.com
 
 Thanks for visiting!
